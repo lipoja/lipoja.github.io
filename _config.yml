@@ -183,6 +183,7 @@ exclude:
   - '*.gemspec'
   - tools
   - README.md
+  - README_Chripy.md
   - CHANGELOG.md
   - LICENSE
   - gulpfile.js
